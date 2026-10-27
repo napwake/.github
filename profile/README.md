@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img alt="Napwake. Non-prod environments that sleep when nobody’s using them, and wake when someone does. A corridor of rooms at night, one per environment. Most are asleep, a few are awake, and the doorman holds the door of staging while it wakes." src="assets/hero-light.svg" width="100%">
+    <img alt="Napwake. Non-prod environments that sleep when nobody’s using them, and wake when someone does. A corridor of doors, one per environment. Most are asleep, a few are awake, and the doorman holds staging's door while it wakes." src="assets/hero-light.svg" width="100%">
   </picture>
 </p>
 
